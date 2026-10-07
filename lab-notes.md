@@ -21,3 +21,6 @@
 2. Second step
 
 [Visit GitHub](https://github.com) 
+
+## partners contribution
+- Colin Clement
